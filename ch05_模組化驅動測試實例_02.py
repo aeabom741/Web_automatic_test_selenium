@@ -20,6 +20,4 @@ drive.get('https://www.facebook.com/?stype=lo&jlou=AffuPJ79S6_XWLhj_8ugqbvD2inXk
 drive.implicitly_wait(30)
 
 login()
-
-
 loginout()    
